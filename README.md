@@ -8,7 +8,7 @@ All information and a complete user guide for Chromatik can be found at [https:/
 
 ### Contact and Collaboration ###
 
-Building a big cool project? I'm probably interested in hearing about it! Want to solicit some help, request new framework features, or just ask a random question? Open an issue on the project or drop me a line: mark@heronarts.com
+Building a big cool project? I'm probably interested in hearing about it! Want to solicit some help, request new framework features, or just ask a random question? Feel free to open a GitHub issue directly on this project, drop me a line at mark@chromatik.co or [join the Discord](https://chromatik.co/discord).
 
 ---
 
